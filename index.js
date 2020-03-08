@@ -1,7 +1,16 @@
-var Dog = require('./dog');
+// var Dog = require('./dog');
+// var Cat = require('./cat');
+
+// var dog = new Dog('Puppy');
+// dog.sayHi();
+
+// console.log('I love animals');
+
 var Cat = require('./cat');
+var Mouse = require('./mouse');
 
-var dog = new Dog('Puppy');
-dog.sayHi();
+var cat = new Cat();
+// var mouse = new Mouse('Mickey');
 
-console.log('I love animals');
+// cat.eat(mouse);
+console.log(cat);
