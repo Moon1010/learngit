@@ -19,3 +19,9 @@ This project is just a demo how to use git
 14. git checkout -b <branch> (branching)
 15. git checkout <branck>
 16. git merge
+
+17. git reset --soft <to_commit>
+18. git reset --mixed <to_commit>
+19. git reset --hard <to_commit>
+
+20. git revert <commit>
