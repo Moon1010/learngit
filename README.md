@@ -30,4 +30,10 @@ This project is just a demo how to use git
 
 22. git clone
 22. git pull
-//ok
+
+23. Pull request
+	1. git checkout -b <feature_branch>
+	2. git push origin <branch>
+	3. create a pull request on Github
+	4. review code
+	5. merge to master
