@@ -27,3 +27,6 @@ This project is just a demo how to use git
 20. git revert <commit>
 
 21. gitignore
+
+22. git clone
+22. git pull
