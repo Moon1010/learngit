@@ -13,5 +13,9 @@ This project is just a demo how to use git
 9. staging area
 10. git repository
 
-12. git checkout
+12. git checkout -- <file>
 13. git reset
+
+14. git checkout -b <branch> (branching)
+15. git checkout <branck>
+16. git merge
