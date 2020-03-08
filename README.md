@@ -25,3 +25,5 @@ This project is just a demo how to use git
 19. git reset --hard <to_commit>
 
 20. git revert <commit>
+
+21. gitignore
