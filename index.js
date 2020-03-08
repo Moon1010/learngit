@@ -4,4 +4,4 @@ var Cat = require('./cat');
 var dog = new Dog('Puppy');
 dog.sayHi();
 
-//console.log('I love animals');
+console.log('I love animals');
