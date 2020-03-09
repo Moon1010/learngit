@@ -37,3 +37,18 @@ This project is just a demo how to use git
 	3. create a pull request on Github
 	4. review code
 	5. merge to master
+
+//Resolve conflicts
+When will conflicts happen?
+	1. Changing the same file + same line
+	2. A deleted file X, B modified file x
+
+24. Method 1:
+	1. Using 'git rebase'
+	2. Resole conflict
+	3. Push again with -f
+
+25. Method 2:
+	1. Merge updated master to feature branch
+	2. Resolve conflict
+	3. Commit and push
